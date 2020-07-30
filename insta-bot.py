@@ -1,3 +1,5 @@
+# Привет , если поиск Python проекта еще актуален - напиши плз в телегу @freshaccs,  либо по мылу freshaccs () yahoo.com
+
 from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
